@@ -22,7 +22,7 @@ function [eventOpto, Scores, BarcodeStandard] = Optophysiology(Wave, Data,SERSDa
 % %           (3)  Butler, H. J. et al, Nature Protocols, 2016, 11 (4), 664-687 
 % %             
 % % 
-% %   Felix Lussier, Université de Montréal, July 2017
+% %   Felix Lussier, Thibeault Brule, UniversitÃ© de MontrÃ©al, July 2017
 %--------------------------------------------------------------------------
 % OPEN
 shift = Wave; serie = Data; echanti = 20; echant2 = 8; echantiRef = 20;
